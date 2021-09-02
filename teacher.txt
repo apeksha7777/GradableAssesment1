@@ -1,0 +1,5 @@
+1|tokyo|5|A
+2|teressa|10|g
+3|sharma|7|c
+5|joey|5|b
+6|koko|9|h
